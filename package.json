@@ -32,7 +32,7 @@
     "torrent-stream": "^1.2.0"
   },
   "devDependencies": {
-    "electron": "^8.0.0",
+    "electron": "^8.2.4",
     "electron-rebuild": "^1.10.0"
   }
 }
